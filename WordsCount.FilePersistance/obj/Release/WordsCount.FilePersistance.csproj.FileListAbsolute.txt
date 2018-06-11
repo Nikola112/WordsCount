@@ -1,0 +1,11 @@
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FilePersistance\bin\Release\WordsCount.FilePersistance.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FilePersistance\bin\Release\WordsCount.FilePersistance.pdb
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FilePersistance\bin\Release\WordsCount.Core.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FilePersistance\bin\Release\WordsCount.FileFramework.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FilePersistance\bin\Release\WordsCount.Core.pdb
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FilePersistance\bin\Release\WordsCount.FileFramework.pdb
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FilePersistance\obj\Release\WordsCount.FilePersistance.csprojAssemblyReference.cache
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FilePersistance\obj\Release\WordsCount.FilePersistance.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FilePersistance\obj\Release\WordsCount.FilePersistance.csproj.CopyComplete
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FilePersistance\obj\Release\WordsCount.FilePersistance.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FilePersistance\obj\Release\WordsCount.FilePersistance.pdb

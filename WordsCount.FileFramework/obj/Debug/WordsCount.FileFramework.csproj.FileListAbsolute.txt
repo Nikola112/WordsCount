@@ -1,0 +1,6 @@
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FileFramework\bin\Debug\WordsCount.FileFramework.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FileFramework\bin\Debug\WordsCount.FileFramework.pdb
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FileFramework\obj\Debug\WordsCount.FileFramework.csprojAssemblyReference.cache
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FileFramework\obj\Debug\WordsCount.FileFramework.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FileFramework\obj\Debug\WordsCount.FileFramework.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.FileFramework\obj\Debug\WordsCount.FileFramework.pdb

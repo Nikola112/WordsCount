@@ -1,0 +1,6 @@
+C:\Users\Nikola\source\repos\WordsCount\ExtensionMethods\bin\Debug\ExtensionMethods.dll
+C:\Users\Nikola\source\repos\WordsCount\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Nikola\source\repos\WordsCount\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\Nikola\source\repos\WordsCount\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\WordsCount\ExtensionMethods\obj\Debug\ExtensionMethods.dll
+C:\Users\Nikola\source\repos\WordsCount\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

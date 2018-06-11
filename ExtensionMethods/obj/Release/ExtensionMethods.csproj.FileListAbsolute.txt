@@ -1,0 +1,5 @@
+C:\Users\Nikola\source\repos\WordsCount\ExtensionMethods\bin\Release\ExtensionMethods.dll
+C:\Users\Nikola\source\repos\WordsCount\ExtensionMethods\bin\Release\ExtensionMethods.pdb
+C:\Users\Nikola\source\repos\WordsCount\ExtensionMethods\obj\Release\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\WordsCount\ExtensionMethods\obj\Release\ExtensionMethods.dll
+C:\Users\Nikola\source\repos\WordsCount\ExtensionMethods\obj\Release\ExtensionMethods.pdb

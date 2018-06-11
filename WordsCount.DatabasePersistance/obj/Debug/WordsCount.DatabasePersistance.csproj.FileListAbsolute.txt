@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\bin\Debug\WordsCount.DatabasePersistance.dll.config
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\bin\Debug\WordsCount.DatabasePersistance.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\bin\Debug\WordsCount.DatabasePersistance.pdb
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\bin\Debug\EntityFramework.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\bin\Debug\WordsCount.Core.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\bin\Debug\WordsCount.Core.pdb
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\bin\Debug\EntityFramework.xml
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\obj\Debug\WordsCount.DatabasePersistance.csprojAssemblyReference.cache
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\obj\Debug\WordsCount.DatabasePersistance.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\obj\Debug\WordsCount.DatabasePersistance.csproj.CopyComplete
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\obj\Debug\WordsCount.DatabasePersistance.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\obj\Debug\WordsCount.DatabasePersistance.pdb
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\obj\Debug\WordsCount.DatabasePersistance.Migrations.InitialMigration.resources
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.DatabasePersistance\obj\Debug\WordsCount.DatabasePersistance.csproj.GenerateResource.cache

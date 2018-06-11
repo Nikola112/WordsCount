@@ -1,0 +1,5 @@
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.Core\bin\Release\WordsCount.Core.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.Core\bin\Release\WordsCount.Core.pdb
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.Core\obj\Release\WordsCount.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.Core\obj\Release\WordsCount.Core.dll
+C:\Users\Nikola\source\repos\WordsCount\WordsCount.Core\obj\Release\WordsCount.Core.pdb
